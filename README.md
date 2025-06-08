@@ -11,3 +11,7 @@ A dark colorscheme based on the planet Caladan. The theme focuses on greens, blu
 ![ChapterhousePreview](https://github.com/szammyboi/dune.nvim/blob/main/chapterhouse.png?raw=true)
 
 
+
+| Image 1 | Image 2 | Image 3 |
+|---------|---------|---------|
+| ![Alt Text 1](https://github.com/szammyboi/dune.nvim/blob/main/arrakis.png?raw=true) | ![Alt Text 2](https://github.com/szammyboi/dune.nvim/blob/main/caladan.png?raw=true) | ![Alt Text 3](https://github.com/szammyboi/dune.nvim/blob/main/chapterhouse.png?raw=true) |
