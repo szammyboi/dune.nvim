@@ -6,3 +6,17 @@ A dark [Neovim](https://github.com/neovim/neovim) theme collection inspired by t
 | ![Alt Text 1](https://github.com/szammyboi/dune.nvim/blob/main/arrakis.png?raw=true) | ![Alt Text 2](https://github.com/szammyboi/dune.nvim/blob/main/caladan.png?raw=true) | ![Alt Text 3](https://github.com/szammyboi/dune.nvim/blob/main/chapterhouse.png?raw=true) |
 
 
+# Roadmap
+
+Changes and proposed features.
+
+## M1 - Color Completion
+
+Finalize colorschemes and create missing colors (git, errors, etc...)
+
+## M2 - Adapt Code Infrastructure
+
+Rework and adapt kanagawa.nvim to fit this project's needs.
+
+
+
