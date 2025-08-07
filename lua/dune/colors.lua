@@ -1,4 +1,6 @@
 ---@class PaletteColors
+
+-- pee filter
 local palette = {
 	-- Global Colors
 	gold = "",
@@ -48,7 +50,7 @@ local palette = {
     ]]
 	
 	-- Caladan Colors
-	caladanBg0 = "#090F0C",
+	caladanBg0 = "#0d1511",
 	caladanBg1 = "#101A15",
 	caladanBg2 = "#2D4539",
 

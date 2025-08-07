@@ -1,4 +1,4 @@
-local theme = require("kanagawa.colors").setup().theme
+local theme = require("dune.colors").setup().theme
 
 local kanagawa = {}
 
